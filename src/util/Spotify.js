@@ -1,6 +1,6 @@
 const CLIENT_ID = '0d7a06c2d0d344998ac48dbc7c6c1824';
 
-const REDIRECT_URI = 'http://localhost:3000/';
+const REDIRECT_URI = 'https://jeremyto-spotifyapp.netlify.app';
 
 let accessToken;
 
